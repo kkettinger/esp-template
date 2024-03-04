@@ -64,6 +64,7 @@ ignore = [".vscode/launch.json", "diagram.json", "wokwi.toml"]
 
 [conditional.'!advanced']
 ignore = [
+    ".gitattributes",
     ".github",
     ".vscode/launch.json",
     ".vscode/tasks.json",
